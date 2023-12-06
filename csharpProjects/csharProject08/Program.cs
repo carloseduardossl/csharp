@@ -28,4 +28,13 @@ else
 {
     Console.WriteLine("Desculpa! Voce perdeu...");
 }
+if (total == 6)
+{
+    Console.WriteLine("Voce ganhou um novo Sapato");
+}
+else if (total >= 17)
+{
+    Console.WriteLine("Voce ganhou uma viagem para dois");
+}
+
 Console.WriteLine($"Rolls:\t{dado1} + {dado2} + {dado3} = {total}");
