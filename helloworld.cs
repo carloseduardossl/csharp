@@ -1,7 +1,3 @@
-using System;
-using System.Diagnostics;
-
-[DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
 class Program
 {
     static void Main()
@@ -13,4 +9,3 @@ class Program
     {
         return ToString();
     }
-}
