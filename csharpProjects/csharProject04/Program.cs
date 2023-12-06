@@ -46,10 +46,10 @@ decimal somageral = materia1media + materia2media + materia3media + materia4medi
 decimal mediageral = (somageral / 4);
 mediageral = Math.Round(mediageral, 1);
 
-Console.WriteLine($"Nome do estudante:\t{nomeEstudante}\n");
+Console.WriteLine($"\nNome do estudante:\t{nomeEstudante}\n");
 Console.WriteLine($"Materias:\t\t\t AV1:\t\tAV2:\t\tAV3:\t Media Final:");
 Console.WriteLine($"{materia1}\t\t\t\t{materia1nota1}\t\t{materia1nota2}\t\t{materia1nota3}\t\t{materia1media}");
 Console.WriteLine($"{materia2}\t\t\t{materia2nota1}\t\t{materia2nota2}\t\t{materia2nota3}\t\t{materia2media}");
 Console.WriteLine($"{materia3}\t\t{materia3nota1}\t\t{materia3nota2}\t\t{materia3nota3}\t\t{materia3media}");
-Console.WriteLine($"{materia4}\t\t\t{materia4nota1}\t\t{materia4nota2}\t\t{materia4nota3}\t\t{materia4media}");
-Console.WriteLine($"Media geral:\t\t{mediageral}");
+Console.WriteLine($"{materia4}\t\t\t{materia4nota1}\t\t{materia4nota2}\t\t{materia4nota3}\t\t{materia4media}\n");
+Console.WriteLine($"Media geral:\t\t\t{mediageral}");
