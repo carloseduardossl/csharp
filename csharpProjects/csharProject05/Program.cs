@@ -1,3 +1,2 @@
-﻿Random dice = new();
-dice.Next(1, 10);
-Console.WriteLine(dice.Next(1, 10));
+﻿decimal media = 100*(0.3m) + 60*(0.3m) + 100*(0.4m);
+Console.Write(media); 
