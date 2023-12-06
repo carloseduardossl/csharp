@@ -7,18 +7,16 @@ int dado3 = dice.Next(1 ,7);
 
 int total = dado1 + dado2 + dado3;
 
-if (dado2 == dado3 )
+if ((dado1 == dado2) && (dado2==dado3))
 {
-    total++;
-
-    Console.WriteLine("Voce ganhou +1 ponto");
+    Console.WriteLine("TRIPLES ROLL'S!!! Voce ganhou +3 pontos");
+    total += 3;
 }
 
-if (dado1 == dado2)
+if ((dado1 == dado2) || (dado2 == dado3) || (dado1 == dado3))
 {
-    total++;
-    total++;
-    Console.WriteLine("Voce ganhou +2 pontos");
+    Console.WriteLine("Doubles rolls!!! +2 pontos adicionais");
+    total += 2;
 }
 
 Console.WriteLine($"O valor 1: {dado1}");
@@ -26,7 +24,7 @@ Console.WriteLine($"O valor 2: {dado2}");
 Console.WriteLine($"O valor 3: {dado3}");
 Console.WriteLine($"O valor total: {total}");
 
-if (total > 14)
+if (total >= 15)
 {
     Console.WriteLine("Voce ganhou!!!");
 }
