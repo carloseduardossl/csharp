@@ -1,7 +1,9 @@
 ﻿int primeiroValor = 200;
 int segundoValor = 8000;
-int miorValor;
+Math maiorValor= new();
+int 
 
 
 
-Console.WriteLine(miorValor);
+
+Console.WriteLine(maiorValor);
