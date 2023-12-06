@@ -11,3 +11,13 @@ Console.WriteLine($"O valor 1: {dado1}");
 Console.WriteLine($"O valor 2: {dado2}");
 Console.WriteLine($"O valor 3: {dado3}");
 Console.WriteLine($"O valor total: {total}");
+
+
+if (total > 14)
+{
+    Console.WriteLine("Voce ganhou!!!");
+}
+if (total < 15)
+{
+    Console.WriteLine("Desculpa! Voce perdeu");
+}
