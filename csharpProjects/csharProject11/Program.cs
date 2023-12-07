@@ -1,5 +1,4 @@
 ﻿// Desenvolvendo estruturas foreach, if-elseif-else para processar dados de Array's
-
 // inicializacao de variaveis 
 
 int tarefas = 5;
@@ -50,11 +49,5 @@ foreach (string nome in nomesEstudantes)
             Console.WriteLine($"Logan:\t\t{loganMedia}\tA-\n");
         }
     }
-
-
-
-
-
-
 Console.WriteLine($"Pressione a tecla Enter para continuar");
 Console.ReadLine();
