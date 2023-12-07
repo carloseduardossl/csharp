@@ -1,4 +1,5 @@
 ﻿// Desenvolvendo estruturas foreach, if-elseif-else para processar dados de Array's
+
 // inicializacao de variaveis 
 
 int tarefas = 5;
@@ -13,6 +14,8 @@ string[] nomesEstudantes = {"Sophia", "Andrew", "Emma", "Logan"};
 int[] estudanteNota = new int[10];
 string notasLetras = "";
 Console.WriteLine($"Estudantes \t\tNota\n");
+
+
 
 foreach (string nome in nomesEstudantes)
     {
@@ -38,6 +41,8 @@ foreach (string nome in nomesEstudantes)
         }
 
         mediaNotas = (decimal)somaNotas / tarefas;
+
+// Atribuicao de letras as notas
 
         if (mediaNotas >= 97)
             notasLetras = "A+";
@@ -76,6 +81,8 @@ foreach (string nome in nomesEstudantes)
             notasLetras = "D-";
         else  
             notasLetras = "F";
+
+    // atribuicao da soma total das atividade a 
         if(nome == "Sophia"){
             int sophiaSoma = 0;
             decimal sophiaMedia;
