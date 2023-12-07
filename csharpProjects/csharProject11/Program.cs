@@ -8,10 +8,74 @@ int[] andrewNotas = {92, 89, 81, 96, 90};
 int[] emmaNotas = {90, 85, 87, 98, 68};
 int[] loganNotas = {90, 95, 87, 88, 96};
 
-Console.WriteLine($"Estudantes \t\tNota\n");
+
 string[] nomesEstudantes = {"Sophia", "Andrew", "Emma", "Logan"};
+int[] estudanteNota = new int[10];
+string notasLetras = "";
+Console.WriteLine($"Estudantes \t\tNota\n");
+
 foreach (string nome in nomesEstudantes)
     {
+        string estudanteAtual = nome;
+
+        if (nome == "Sophia"){
+            estudanteNota = sophiaNotas;
+        }
+        else if (nome == "Andrew"){
+            estudanteNota = andrewNotas;
+        }
+        else if (nome == "Emma"){
+            estudanteNota = emmaNotas;
+        }
+        else if (nome == "Logan"){
+            estudanteNota = loganNotas;
+        }
+        int somaNotas = 0;
+        decimal mediaNotas;
+
+        foreach(int notas in estudanteNota){
+            somaNotas += notas;
+        }
+
+        mediaNotas = (decimal)somaNotas / tarefas;
+
+        if (mediaNotas >= 97)
+            notasLetras = "A+";
+        
+        else if (mediaNotas >= 93)
+            notasLetras = "A";
+        
+        else if (mediaNotas >= 90)
+            notasLetras = "A-";
+        
+        else if (mediaNotas >= 87)
+            notasLetras = "B+";
+        
+        else if (mediaNotas >= 83)
+            notasLetras = "B";
+        
+        else if (mediaNotas >= 80)
+            notasLetras = "B-";
+        
+        else if (mediaNotas >= 77)
+            notasLetras = "C+";
+        
+        else if (mediaNotas >= 73)
+            notasLetras = "C";
+        
+        else if (mediaNotas >= 70)
+            notasLetras = "C-";
+        
+        else if (mediaNotas >= 67)
+            notasLetras = "D+";
+        
+        else if (mediaNotas >= 63)
+            notasLetras = "D";
+        
+        else if (mediaNotas >= 60)
+            notasLetras = "D-";
+        else  
+            notasLetras = "F";
         if(nome == "Sophia"){
             int sophiaSoma = 0;
             decimal sophiaMedia;
@@ -19,7 +83,6 @@ foreach (string nome in nomesEstudantes)
                 sophiaSoma += nota;
             }
             sophiaMedia = (decimal)sophiaSoma / tarefas;
-            Console.WriteLine($"Sophia:\t\t{sophiaMedia}\tA-");
         }
         if(nome == "Andrew"){
             int andrewSoma = 0;
@@ -28,7 +91,6 @@ foreach (string nome in nomesEstudantes)
                 andrewSoma += nota;
             }
             andrewMedia = (decimal)andrewSoma / tarefas;
-            Console.WriteLine($"Andrew:\t\t{andrewMedia}\tB+");
         }
         if(nome == "Emma"){
             int emmaSoma = 0;
@@ -37,7 +99,6 @@ foreach (string nome in nomesEstudantes)
                 emmaSoma += nota;
             }
             emmaMedia = (decimal)emmaSoma / tarefas;
-            Console.WriteLine($"Emma:\t\t{emmaMedia}\tB");
         }
         if(nome == "Logan"){
             int loganSoma = 0;
@@ -46,8 +107,8 @@ foreach (string nome in nomesEstudantes)
                 loganSoma += notas;
             }
             loganMedia = (decimal)loganSoma / tarefas;
-            Console.WriteLine($"Logan:\t\t{loganMedia}\tA-\n");
         }
+        Console.WriteLine($"{nome}\t\t{mediaNotas}\t{notasLetras}");
     }
 Console.WriteLine($"Pressione a tecla Enter para continuar");
 Console.ReadLine();
