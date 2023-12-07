@@ -29,3 +29,15 @@ foreach (string nome in nomes)
     Console.WriteLine(nome);   
 }
 
+// armazenando int 
+int soma = 0;
+int[] inventario = {200, 450, 700, 175, 250};
+int bin = 0;
+foreach(int item in inventario)
+{
+    soma += item;
+    bin++;
+    Console.WriteLine($"Estoque {bin} = {item} itens");
+}
+Console.WriteLine($"Nos temos {soma} itens no inventario");
+
