@@ -6,5 +6,6 @@ foreach (string code in elementos)
     withb++;
     if(code.StartsWith("B")){
         Console.WriteLine($"o indice {withb} comeca com B: {code}");
+        string[] comB = {code};
     }
 }
