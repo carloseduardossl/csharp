@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\bin\Debug\net8.0\csharProject10.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\bin\Debug\net8.0\csharProject10.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\bin\Debug\net8.0\csharProject10.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\bin\Debug\net8.0\csharProject10.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\bin\Debug\net8.0\csharProject10.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\refint\csharProject10.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\csharProject10.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject10\obj\Debug\net8.0\ref\csharProject10.dll
