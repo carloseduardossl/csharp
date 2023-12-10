@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\bin\Debug\net8.0\Water.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\bin\Debug\net8.0\Water.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\bin\Debug\net8.0\Water.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\bin\Debug\net8.0\Water.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\bin\Debug\net8.0\Water.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\refint\Water.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\Water.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\Water\obj\Debug\net8.0\ref\Water.dll
