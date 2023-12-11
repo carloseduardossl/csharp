@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj": {}
+    "c:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj": {
+    "c:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj",
+        "projectUniqueName": "c:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj",
         "projectName": "csharProject06",
-        "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj",
+        "projectPath": "c:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\csharProject06.csproj",
         "packagesPath": "C:\\Users\\Dezz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\obj\\",
+        "outputPath": "c:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\csharProject06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
