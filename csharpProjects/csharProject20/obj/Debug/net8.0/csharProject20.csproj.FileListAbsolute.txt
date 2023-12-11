@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\bin\Debug\net8.0\csharProject20.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\bin\Debug\net8.0\csharProject20.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\bin\Debug\net8.0\csharProject20.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\bin\Debug\net8.0\csharProject20.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\bin\Debug\net8.0\csharProject20.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\refint\csharProject20.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\csharProject20.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject20\obj\Debug\net8.0\ref\csharProject20.dll
