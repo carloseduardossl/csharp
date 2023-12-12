@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharProject21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dd212a683f8bfdeb9488eb86f526ec488d35328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24adb8a6c6eecd04292d02ee1f01f49a2720f29a")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharProject21")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharProject21")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
