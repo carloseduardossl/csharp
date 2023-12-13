@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\bin\Debug\net8.0\csharProject24.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\bin\Debug\net8.0\csharProject24.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\bin\Debug\net8.0\csharProject24.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\bin\Debug\net8.0\csharProject24.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\bin\Debug\net8.0\csharProject24.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\refint\csharProject24.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\csharProject24.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject24\obj\Debug\net8.0\ref\csharProject24.dll
