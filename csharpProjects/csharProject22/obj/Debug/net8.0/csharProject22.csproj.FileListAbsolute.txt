@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\bin\Debug\net8.0\csharProject22.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\bin\Debug\net8.0\csharProject22.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\bin\Debug\net8.0\csharProject22.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\bin\Debug\net8.0\csharProject22.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\bin\Debug\net8.0\csharProject22.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\refint\csharProject22.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\csharProject22.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject22\obj\Debug\net8.0\ref\csharProject22.dll
