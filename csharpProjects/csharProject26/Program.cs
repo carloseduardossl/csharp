@@ -7,22 +7,22 @@
 //     Console.Write($"{n} ");
 // }
 
-int[,] arrayMult1 = { { 2, 3 }, { 1, 4 } };
-int[,] arrayMult2 = { { 5, 2 }, { 4, 2 } };
+int[,] array1 = { { 2, 3 }, { 1, 4 } };
+int[,] array2 = { { 5, 2 }, { 4, 2 } };
 
-int linhas = arrayMult1.GetLength(0);
-int colunas = arrayMult2.GetLength(1);
+int linhas = array1.GetLength(0);
+int colunas = array2.GetLength(1);
 
-int[,] multiplicacao = new int[linhas, colunas];
+int[,] somaArray = new int[linhas, colunas];
 
 for (int a = 0; a < linhas; a++)
 {
     for (int b = 0; b < colunas; b++)
     {
-        multiplicacao[a, b] = arrayMult1[a, b] * arrayMult2[a, b];
+        somaArray[a, b] = array1[a, b] + array2[a, b];
     }
 }
-foreach (int n in multiplicacao)
+foreach (int n in somaArray)
 {
     Console.WriteLine(n);
 }
