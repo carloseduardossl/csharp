@@ -1,7 +1,7 @@
 ﻿using System.Runtime.Serialization.Formatters;
 
-int[,] array1 = { { 2, 3 }, { 3, 2 } };
-int[,] array2 = { { 5, 2 }, { 9, 1 } };
+int[,] array1 = { { 2, 3 }, { 4, 1 } };
+int[,] array2 = { { 5, 7 }, { 7, 8 } };
 
 int linha1 = array1.GetLength(0);
 int coluna1 = array1.GetLength(1);
