@@ -3,6 +3,7 @@ namespace myAplication
 {
     class Car
     {
-        public string nome = "olaaaa program 1";
+        public string nome;
+        public int speed;
     }
 }
