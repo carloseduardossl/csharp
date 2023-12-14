@@ -1,19 +1,33 @@
 ﻿public int[] TwoSum(int[] nums, int target)
 {
-    Dictionary<int, int> numMap = new Dictionary<int, int>();
-
-    for (int i = 0; i < nums.Length; i++)
+    int[] sortedIndices = new int[nums.Length];
+    for (int i = 0; i < sortedIndices.Length; i++)
     {
-        int complement = target - nums[i];
+        sortedIndices[i] = i;
+    }
 
-        if (numMap.ContainsKey(complement))
+    Array.Sort(sortedIndices, (a, b) => nums[a].CompareTo(nums[b]));
+
+    int left = 0;
+    int right = nums.Length - 1;
+
+    while (left < right)
+    {
+        int sum = nums[sortedIndices[left]] + nums[sortedIndices[right]];
+
+        if (sum == target)
         {
-            return new int[] { numMap[complement], i };
+            return new int[] { sortedIndices[left], sortedIndices[right] };
         }
-        if (!numMap.ContainsKey(nums[i]))
+        else if (sum < target)
         {
-            numMap.Add(nums[i], i);
+            left++;
+        }
+        else
+        {
+            right--;
         }
     }
+
     return new int[] { -1, -1 };
 }
