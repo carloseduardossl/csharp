@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace myAplication 
+{
+    class Program
+    {
+        static void Main(string[] args){
+            Car ola = new Car();
+            Console.WriteLine(ola.nome);
+        }
+    }
+
+
+
+
+
+
+
+}
