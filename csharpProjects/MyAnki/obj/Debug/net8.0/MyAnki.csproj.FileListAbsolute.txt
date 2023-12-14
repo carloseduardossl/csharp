@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\bin\Debug\net8.0\MyAnki.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\bin\Debug\net8.0\MyAnki.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\bin\Debug\net8.0\MyAnki.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\bin\Debug\net8.0\MyAnki.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\bin\Debug\net8.0\MyAnki.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\refint\MyAnki.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\MyAnki.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\MyAnki\obj\Debug\net8.0\ref\MyAnki.dll
