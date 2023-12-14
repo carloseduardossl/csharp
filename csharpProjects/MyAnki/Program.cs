@@ -1,18 +1,19 @@
-﻿string[] pergunta = { "O que é uma string?", "O que é um Int?" };
-
-static void FlashCard(string[] pergunta)
+﻿public int[] TwoSum(int[] nums, int target)
 {
-    string[] resposta = { "É uma sequencia de caracteres.", "E o tipo primitivo dos numeros inteiros" };
+    Dictionary<int, int> numMap = new Dictionary<int, int>();
 
-    for (int f = 0; f < pergunta.Length; f++)
+    for (int i = 0; i < nums.Length; i++)
     {
-        Console.WriteLine($"FlashCard 1:{pergunta[f]}");
-        string respostaUsuario = Console.ReadLine();
-        int correct = 0;
-        if (respostaUsuario == resposta[f])
-            correct = 1;
-        else
-            correct = 0;
+        int complement = target - nums[i];
+
+        if (numMap.ContainsKey(complement))
+        {
+            return new int[] { numMap[complement], i };
+        }
+        if (!numMap.ContainsKey(nums[i]))
+        {
+            numMap.Add(nums[i], i);
+        }
     }
+    return new int[] { -1, -1 };
 }
-Console.WriteLine(FlashCard(pergunta[0]));
