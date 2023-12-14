@@ -1,6 +1,4 @@
-﻿using System.Runtime.Serialization.Formatters;
-
-int[,] array1 = { { 2, 3 }, { 4, 1 } };
+﻿int[,] array1 = { { 2, 3 }, { 4, 1 } };
 int[,] array2 = { { 5, 7 }, { 7, 8 } };
 
 int linha1 = array1.GetLength(0);
