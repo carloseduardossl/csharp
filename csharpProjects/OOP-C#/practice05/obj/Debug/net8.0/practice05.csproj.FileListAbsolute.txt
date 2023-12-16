@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\bin\Debug\net8.0\practice05.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\bin\Debug\net8.0\practice05.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\bin\Debug\net8.0\practice05.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\bin\Debug\net8.0\practice05.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\bin\Debug\net8.0\practice05.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\refint\practice05.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\practice05.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice05\obj\Debug\net8.0\ref\practice05.dll
