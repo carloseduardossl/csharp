@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\bin\Debug\net8.0\practice04.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\bin\Debug\net8.0\practice04.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\bin\Debug\net8.0\practice04.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\bin\Debug\net8.0\practice04.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\bin\Debug\net8.0\practice04.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\refint\practice04.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\practice04.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice04\obj\Debug\net8.0\ref\practice04.dll
