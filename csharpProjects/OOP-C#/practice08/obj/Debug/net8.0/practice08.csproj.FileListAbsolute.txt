@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\bin\Debug\net8.0\practice08.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\bin\Debug\net8.0\practice08.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\bin\Debug\net8.0\practice08.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\bin\Debug\net8.0\practice08.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\bin\Debug\net8.0\practice08.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\refint\practice08.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\practice08.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\OOP-C#\practice08\obj\Debug\net8.0\ref\practice08.dll
