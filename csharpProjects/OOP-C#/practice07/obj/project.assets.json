@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\OOP-C#\\practice01\\practice01.csproj",
-      "projectName": "practice01",
-      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\OOP-C#\\practice01\\practice01.csproj",
+      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\OOP-C#\\practice07\\practice07.csproj",
+      "projectName": "practice07",
+      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\OOP-C#\\practice07\\practice07.csproj",
       "packagesPath": "C:\\Users\\Dezz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\OOP-C#\\practice01\\obj\\",
+      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\c#\\csharpProjects\\OOP-C#\\practice07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dezz\\AppData\\Roaming\\NuGet\\NuGet.Config"
