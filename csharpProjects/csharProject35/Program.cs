@@ -13,5 +13,7 @@ void PrintCircleCircunference(int radius)
     Console.WriteLine($"Circunference = {cirunference}");
 }
 
+void PrintCircleInfo 
+
 PrintCircleArea(10);
 PrintCircleCircunference(10);
