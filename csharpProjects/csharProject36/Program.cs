@@ -1,4 +1,6 @@
-﻿int a = 3;
+﻿//reference type
+
+int a = 3;
 int b = 4;
 int c = 0;
 Multiply(a, b, c);
