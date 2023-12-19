@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] students = { "Jenna", "Ayesha", "Carlos", "Viktor" };
+
+void DisplayStudents(string[] students)
+{
+    foreach (string nome in students)
+    {
+        Console.Write($"{nome}, ");
+    }
+}
+
+DisplayStudents(new string[] { "Robert", "Vanya" });
+DisplayStudents(students);
