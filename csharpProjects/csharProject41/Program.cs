@@ -15,7 +15,7 @@ if(TotalMeetsMinimum())
     Total -= 5.00;
 }
 
-Console.WriteLine($"Total : {FormatDecimal(Total)}");
+Console.WriteLine($"Total : ${FormatDecimal(Total)}");
 double GetDiscountedPrice (int itemindex)
 {
     return items[itemindex] * (1 - discounts[itemindex]) ;

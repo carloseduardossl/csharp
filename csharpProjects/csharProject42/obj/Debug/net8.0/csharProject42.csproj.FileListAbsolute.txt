@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\bin\Debug\net8.0\csharProject42.exe
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\bin\Debug\net8.0\csharProject42.deps.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\bin\Debug\net8.0\csharProject42.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\bin\Debug\net8.0\csharProject42.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\bin\Debug\net8.0\csharProject42.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\refint\csharProject42.dll
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.pdb
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\csharProject42.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\c#\csharpProjects\csharProject42\obj\Debug\net8.0\ref\csharProject42.dll
