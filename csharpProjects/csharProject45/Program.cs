@@ -4,6 +4,18 @@
         "ostrishes", "pigs" , "ponies" , "rabbits", "sheep", "tortoise",
 };
 
+PlanSchoolVisit("School A");
+PlanSchoolVisit("School B", 3);
+PlanSchoolVisit("School C", 2);
+
+void PlanSchoolVisit(string schoolName, int groups = 6)
+{
+    RandomizeAnimals();
+    string[,] group1 = AssignGroup(groups);
+    Console.WriteLine(schoolName);
+    PrintGroup(group1);
+}
+
 void RandomizeAnimals()
 {
     Random random = new Random();
@@ -12,21 +24,36 @@ void RandomizeAnimals()
     {
         int r = random.Next(i, pettingZoo.Length);
 
-        string temp = pettingZoo[i];
-        pettingZoo[i] = pettingZoo[r];
-        pettingZoo[r] = temp;
+        string temp = pettingZoo[r];
+        pettingZoo[r] = pettingZoo[i];
+        pettingZoo[i] = temp;
     }
 }
 
-RandomizeAnimals();
+string[,] AssignGroup(int groups = 6)
+{
+    string[,] result = new string[groups, pettingZoo.Length / groups];
+    int start = 0;
 
-
-// AssingnGroup();
-//string[,] group = AssisngGroup();
-Console.WriteLine("School A");
-foreach (string animal in pettingZoo)
-{   
-    Console.WriteLine(animal);
+    for (int i = 0; i < groups; i++)
+    {
+        for (int j = 0; j < result.GetLength(1); j++)
+        {
+            result[i, j] = pettingZoo[start++];
+        }
+    }
+    return result;
 }
-//PrintGroup(group);
 
+void PrintGroup(string[,] group)
+{
+    for (int i = 0; i < group.GetLength(0); i++)
+    {
+        Console.Write($"Group {i + 1}: ");
+        for (int j = 0; j < group.GetLength(1); j++)
+        {
+            Console.Write($"{group[i,j]} ");
+        }
+        Console.WriteLine();
+    }
+}
